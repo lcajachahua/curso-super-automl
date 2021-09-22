@@ -9,6 +9,14 @@ Luego, abra la terminal y utilice el siguiente código para clonar este repo:
 git clone https://github.com/lcajachahua/curso-super-automl.git
 ```
 
+Para acceder a los Tutoriales de PyCaret, basta con utilizar el siguiente código:
+
+
+```
+git clone https://github.com/pycaret/pycaret.git
+```
+
+
 Y listo! Ya puede acceder a los Notebooks y a los datos de ejemplo.
 
 
