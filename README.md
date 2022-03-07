@@ -1,5 +1,5 @@
 # AutoML con PyCaret
-Curso Metodos Supervisados del PEA Advanced Data Science - DMC
+Curso Metodos Supervisados del PEA Data Science Funcamentals - DMC
 
 Para desarrollar el caso, puede utilizar la versión gratuita en cloud de Jupyter. Ingrese a: https://jupyter.org/try y elija la opción "Try JupyterLab"
 
